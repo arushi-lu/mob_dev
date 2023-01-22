@@ -1,0 +1,637 @@
+.nav_bar{
+    margin: auto; 
+    margin-left: 5%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color: #F1F1F1;
+}
+
+.lupa{
+    width: 15px;
+    height: 18px;
+    margin-top: 1.1%;
+    margin-left: 20px;
+    mix-blend-mode: multiply;
+}
+
+.jumys{
+    margin-left: 1%;
+    margin-top: 2.5%;
+    font-family: Kanit;
+    font-weight: 500;
+}
+
+.nav_buttons{
+    margin-top: 0.3%;
+    margin-left: 55%;
+}
+
+.home_but{
+    background-color: transparent;
+    border: none;
+    margin-top: 10px;
+    margin-left: 12px;
+    font-weight: 500;
+   
+    
+}
+.about_but{
+    background-color: transparent;
+    border: none;
+    margin-top: 10px;
+    margin-left: 12px;
+    font-weight: 500;
+    
+}
+.how_but{
+    background-color: transparent;
+    border: none;
+    margin-top: 10px;
+    margin-left: 12px;
+    font-weight: 500;
+    color: #081E34;
+   
+}
+.start_but{
+    background-color: #081E34 12%;
+    border-radius: 100px;
+    width: 102px;
+    height: 38px;
+    margin-top: 10px;
+    margin-left: 12px;
+    font-weight: 500;
+    
+}
+
+.second{
+    display: flex;
+}
+
+.text-1h2{
+    margin-left: 80px;
+    margin-top: 189px;
+    font-size: 54px;
+    line-height: 20px;
+}
+
+.text-2h2{
+    margin-left: 80px;
+    font-size: 54px; 
+    line-height: 20px;
+}
+
+.text-3h2{
+    margin-left: 80px;  
+    font-size: 54px;
+    line-height: 20px;
+}
+
+.text-4h2 br.ignore1{
+    display: none;
+}
+.text-4h2 br.ignore2{
+    display: none;
+}
+
+
+.text-4h2{
+    margin-left: 80px; 
+    margin-top: 80px; 
+    font-size: 12px;
+    line-height: 20px;
+}
+
+/* .text-5h2{
+    margin-left: 80px; 
+    font-size: 12px;
+    line-height: 0px;
+} */
+
+.hiw{
+    margin-left: 80px; 
+    margin-top: 40px;
+    font-size: 14px;
+    height: 50px;
+    width: 150px;
+}
+
+.third{
+    font-size: 54px; margin-top: 132px; margin-left: 35%;
+}
+
+.t1{
+    margin-left: 80px;
+    font-size: 18px; 
+    margin-top: 50px;
+}
+
+.t2{
+    margin-left: 130px; font-size: 18px; margin-top: 50px;
+}
+
+.t3{
+    margin-left: 160px; font-size: 18px; margin-top: 50px;
+}
+
+.big{
+    width: 587px;
+    height: 458px;
+    margin-top: 150px; 
+    margin-left: 160px; 
+    border-radius: 50px;
+
+}
+
+.images{
+    margin-top: 86px;
+    margin-left: 80px;
+    display: flex;
+}
+.one{
+    margin-left: 30px;
+}
+.two{
+    margin-left: 280px;
+}
+.three{
+    margin-left: 330px;
+}
+.text-1{
+    display: flex;
+}
+.text-2{
+    display: flex;
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 10px;
+}
+
+.s3-t1{
+    font-size: 54px; margin-left: 80px; margin-top: 100px;
+}
+
+.s3-t2{
+    font-size: 16px; margin-left: 80px; line-height: 0px;
+}
+.s3-t3{
+    font-size: 16px; margin-left: 80px; line-height: 0px;
+}
+
+.text-box{
+    width: 619px;
+    height: 50px;
+    margin-left: 80px;
+    font-weight: 500;
+    font-size: 16px;
+    border-radius: 12px;
+    border: 0cm;
+    
+    color: #E1DEE7; text-indent: 50px; margin-top: 10px; padding-top: 10px; height: 50px;
+}
+.tbox{
+    color: #F1F1F1;
+    position: relative;
+    height: 50px;
+    
+}
+.search{
+    margin-left: 80px;
+    position: absolute;
+    margin-top: 33px;
+    margin-left: 100px;
+    width: 24px;
+    height: 24px;
+}
+
+.fjBut{
+    margin-left: 40px;
+    background-color: #712FFF;
+    width: 106px;
+    height: 50px;
+    border-radius: 100px;
+    border: none;
+    color: white;
+    font-family: Inter;
+    font-weight: 500;
+}
+
+.bigPic{
+    display: flex;
+}
+
+.lastBig{
+    width:"519px"; height:"420px";
+    margin-top: 200px; margin-left: 80px ;
+}
+
+.bigText{
+    margin-left: 128px;
+    margin-top: 300px;
+    font-size: 44px;
+}
+
+.s4-t1{
+    font-size: 16px; 
+    margin-left: 730px; 
+    line-height: 1;
+    margin-top: -210px;
+}
+
+.s4-t2{
+    font-size: 16px; margin-left: 730px; line-height: 1;
+}
+
+.txt2{
+    margin-left: 225px;
+}
+
+.txt3{
+    margin-left: 216px;
+}
+
+.upl{
+    width: 114px;
+    height: 50px;
+    font-size: 14px;
+    margin-top: 50px;
+    margin-left: 730px;
+}
+.list{
+    list-style: none;
+    margin-top: 160px;
+    margin-left: 40px;
+    display: flex;
+}
+
+.first_sec{
+    background-color: #F1F1F1;
+    width: 100%;
+    height: 100%;
+}
+.home_list{
+    margin-top: 50px; 
+    font-size: 14px;
+}
+.abt_list{
+    margin-top: 50px; margin-left: 30px; 
+    font-size: 14px;
+}
+
+.hiw_list{
+    margin-top: 50px; margin-left: 30px; 
+    font-size: 14px;
+}
+.twitter_li{
+    margin-top: 45px; margin-left: 20px;
+    width: 24px;
+    height: 24px; 
+}
+
+.insta_li{
+    margin-top: 45px; margin-left: 10px; 
+    width: 24px; 
+    height: 24px;
+}
+
+.credits{
+    font-size: 10px; 
+    margin-left: 50%; margin-top: -40px;
+}
+
+.love{
+    font-size: 12px;
+    margin-left: 77%;
+}
+
+@media screen and (max-width: 1050px){
+   .home_but{display: none}
+   .about_but{display: none}
+   .how_but{display: none}
+   
+   .jumys{
+    font-size: 58px;
+    line-height: 42px;
+    margin-top: 75px;
+    margin-left: 30px;
+   }
+   .lupa{
+    height: 60px;
+    width: 58.68px;
+   }
+   .nav_bar{
+    width: 1200px;
+    background-color: #F1F1F1;
+   }
+
+   .start_but{
+    width: 292px;
+    height: 108px;
+    margin-top: 10px;
+    margin-left: -200px;
+    font-weight: 300;
+    font-size: 40px;
+    background-color: #081E341F;
+    border: none;
+   }
+
+   .first_sec{
+    width: 1300px;
+    background-color: #F1F1F1;
+   }
+
+   .second{
+    display: flex;
+    align-items: center;
+    }
+
+   .in_second{
+    width: 1300px;
+   }
+
+   .big{
+    width: 1087px;
+    height: 758px;
+    margin-top: -650px; 
+    margin-left: -1200px; 
+    border-radius: 50px;
+   }
+   
+   .text-1h2{
+    margin-top: 1300px;
+    font-size: 100px;
+    text-align: center;
+    }
+    .text-2h2{
+    font-size: 100px;
+    text-align: center;
+    }
+    .text-3h2{
+    font-size: 100px;
+    text-align: center;
+    }
+
+    .text-4h2 br.ignore1{
+        display: inline;
+        text-align: right;
+    }
+    .text-4h2 br.ignore2{
+        display: inline-block;
+
+    }
+    .text-4h2 br.not_ignore{
+        display: none;
+    }
+
+    .text-4h2{
+    font-size: 45px;
+    margin-top: 200px;
+    line-height: 50px;
+    align-items: center;
+    text-align: center;
+    }
+
+    .text-6h2{
+        font-size: 45px;
+        margin-top: 200px;
+        white-space:break-spaces;
+        margin-top: 0%;
+        
+    }
+
+    .section_hiw{
+        margin-top: 150px;
+        padding-top: 10px;
+        padding-bottom: 90px;
+    }
+
+    .hiw{
+        margin-left: 500px; 
+        margin-top: 40px;
+        font-size: 30px;
+        height: 100px;
+        width: 300px;
+    }
+
+    .images{
+        display: flex;
+        flex-direction: column;
+    }
+    .one{
+        width: 63.45px;
+        height: 82px;
+    }
+    .t1{
+        margin-top: -550px;
+        font-size: 40px;
+        margin-bottom: 100px;
+    }
+    .txt1{
+        margin-top: -600px;
+        font-size: 20px;
+    }
+
+    .two{
+        width: 63.45px;
+        height: 82px;
+        margin-left: 30px;
+        margin-top: 250px;
+    }
+
+    .t2{
+        margin-top: 150px;
+        font-size: 40px;
+        margin-left: 80px;
+    }
+    .txt2{
+        margin-top: 250px;
+        font-size: 20px;
+        margin-left: 80px;
+    }
+
+    .three{
+        width: 63.45px;
+        height: 82px;
+        margin-top: 200px;
+        margin-left: 30px;
+    }
+
+    .text-1{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .text-2{
+        display: flex;
+        flex-direction: column;
+    }
+    
+
+    .third{
+        font-size: 100px;
+        margin-left: 25%;
+    }
+    .t3{
+        font-size: 40px;
+        margin-top: 200px;
+        margin-left: 80px;
+    }
+    .txt3{
+        font-size: 20px;
+        margin-top: 250px;
+        margin-left: 80px;
+    }
+
+    .s3-t1{
+        font-size: 100px;
+        margin-left: 25%;
+    }
+
+    .s3-t2{
+        line-height: 45px;
+        align-items: center;
+        text-align: center;
+        font-size: 40px;
+    }
+
+    .s3-t2 br.ignore11{
+        display: inline;
+        text-align: right;
+    }
+    .s3-t2 br.ignore21{
+        display: inline-block;
+
+    }
+    .s3-t2 br.not_ignore2{
+        display: none;
+    }
+
+    .text-box{
+        width: 90%;
+        height: 70px;
+    }
+    .search{
+        width: 50px;
+        height: 50px;
+        margin-top: 25px;
+        margin-right: 150px;   
+    }
+
+    .text-box[type="text"]::placeholder{
+        font-size: 40px;
+        text-align: center;
+        margin-left: 530px;
+        color: #000000;
+        opacity: 0.2;
+    }
+
+    .fjBut{
+        margin-left: 40%;
+        margin-top: 70px;
+        height: 100px;
+        width: 250px;
+        font-size: 35px;
+    }
+
+    .bigPic{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .lastBig{
+        width: 80%;
+        margin-left: 10%;
+        margin-top: 40%;
+    }
+
+    .bigText{
+        font-size: 100px;
+        margin-left: 10%;
+    }
+
+    .s4-t1{
+        line-height: 60px;
+        text-align: left;
+        font-size: 45px;
+        margin-top: 0%;
+        margin-left: 10%;
+    }
+
+    .s4-t1 br.ignore13{
+        display: inline;
+        text-align: right;
+    }
+    .s4-t1 br.ignore23{
+        display: inline-block;
+
+    }
+    .s4-t1 br.not_ignore3{
+        display: none;
+    }
+
+    .upl{
+        width: 250px;
+        height: 100px;
+        margin-left: 10%;
+        margin-top: 70px;
+        font-size: 35px;
+    }
+
+    .list{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .home_list{
+        font-size: 30px;
+        margin-left: 5%;
+        margin-top: 7%;
+    }
+
+    .abt_list{
+        font-size: 30px;
+        margin-left: 5%;
+        margin-top: 7%;
+    }
+
+    .hiw_list{
+        font-size: 30px;
+        margin-left: 5%;
+        margin-top: 7%;
+    }
+
+    .twitter_li{
+        margin-left: 5%;
+        margin-top: 7%;
+    }
+    .tw_img{
+        width: 50px;
+        height: 50px;
+    }
+
+    .insta_li{
+        margin-left: 5%;
+        margin-top: 7%;
+    }
+    .in_img{
+        width: 50px;
+        height: 50px;
+    }
+
+    .credits{
+        margin-top: 10%;
+        font-size: 30px;
+        opacity: 0.5;
+        margin-left: 10%;
+    }
+
+    .love{
+        margin-top: 10%;
+        font-size: 30px;
+        margin-left: 10%;
+    }
+    
+
+
+}
+
